@@ -64,4 +64,4 @@ fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.contoh:
 
 # HASIL OUTPUT DARI ALGORITMA program1.py
 
-
+![ss10](https://user-images.githubusercontent.com/46512504/53014884-59482480-347c-11e9-9d63-c0de7c91b91f.jpg)
