@@ -48,4 +48,9 @@ Untuk mencari nilai terbesar kita menggunakan maks.contoh:
 
 # Alur algoritma program.py
 
+![ss6](https://user-images.githubusercontent.com/46512504/53013963-9f4fb900-3479-11e9-9e11-ec4f802f8c99.jpg)
+
+Disini kita akan menggunakan fungsi perulangan for dan kondisional if.
+
+
 
