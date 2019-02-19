@@ -33,7 +33,10 @@ akan terhenti.
 Disini kita akan menggunakan fungsi perulangan while.Yang dimana perulangan while yaitu perulangan yang dilakukan
 berdasarkan kondisi tertentu selama nilai kondisi TRUE.
 
+Fungsi while ini dapat di hentikan dengan fungsi break, break itu sendiri yaitu menghentikan proses perulangan
+pada kondisi tertentu.
 
+![ss3](https://user-images.githubusercontent.com/46512504/53012976-1172ce80-3477-11e9-8a03-154cb503db7c.jpg)
 
 
 
