@@ -27,8 +27,14 @@ Dari output diatas hasil nya < 0.5 kenapa hasilnya < 0.5 karena nilai random yan
 
 ![untitled7](https://user-images.githubusercontent.com/46512504/53005516-fb104700-3465-11e9-844d-0f3f18cfc514.jpg)
 
+Input diatas merupakan inputan dalam mencari nilai terbesar dan perulangan tetapi ketika memasuukan nilai 0 maka
+akan terhenti.
+
 Disini kita akan menggunakan fungsi perulangan while.Yang dimana perulangan while yaitu perulangan yang dilakukan
 berdasarkan kondisi tertentu selama nilai kondisi TRUE.
+
+![untitled7](https://user-images.githubusercontent.com/46512504/53007949-dc607f00-346a-11e9-95cd-046b2d17a28b.jpg)
+
 
 
 
