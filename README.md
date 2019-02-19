@@ -1,4 +1,6 @@
-# PENJELASAN DAN ALUR ALGORITMA
+# PENJELASAN DAN ALUR ALGORITMA latihan01.py,latihan02.py,program1.py
+
+
 
 # 1.Alur algoritma latihan01.py
 ![untitled6](https://user-images.githubusercontent.com/46512504/53005506-f64b9300-3465-11e9-9d6f-16edbdd47a4a.jpg)
