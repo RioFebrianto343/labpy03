@@ -44,4 +44,8 @@ Untuk mencari nilai terbesar kita menggunakan maks.contoh:
 
 # HASIL OUTPUT DARI ALGORITMA latihan02.py
 
-![untitled8](https://user-images.githubusercontent.com/46512504/53005520-fd72a100-3465-11e9-8e91-a1a6c8b7e87c.jpg)
+![ss5](https://user-images.githubusercontent.com/46512504/53013597-c0fc7080-3478-11e9-885e-ef850d764ed3.jpg)
+
+# Alur algoritma program.py
+
+
