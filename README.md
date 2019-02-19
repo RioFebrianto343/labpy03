@@ -53,8 +53,15 @@ Untuk mencari nilai terbesar kita menggunakan maks.contoh:
 Disini kita akan menggunakan fungsi perulangan for dan kondisional if.
 
 Fungsi perulangan for disini yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan
-tertentu sedangkan Range sendiri yaitu jarak/panjang data itu sendiri.
+tertentu sedangkan Range sendiri yaitu jarak/panjang data itu sendiri.contoh:
 
 ![ss7](https://user-images.githubusercontent.com/46512504/53014127-22710f00-347a-11e9-90f9-415c7b4b6690.jpg)
+
+Fungsi kondisional if disini yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.Dengan
+fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.contoh:
+
+![ss8](https://user-images.githubusercontent.com/46512504/53014420-05890b80-347b-11e9-8729-d9f7b85d3bb5.jpg)
+
+# HASIL OUTPUT DARI ALGORITMA program1.py
 
 
