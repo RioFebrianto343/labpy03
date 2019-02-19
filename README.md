@@ -33,7 +33,6 @@ akan terhenti.
 Disini kita akan menggunakan fungsi perulangan while.Yang dimana perulangan while yaitu perulangan yang dilakukan
 berdasarkan kondisi tertentu selama nilai kondisi TRUE.
 
-![untitled7](https://user-images.githubusercontent.com/46512504/53007949-dc607f00-346a-11e9-95cd-046b2d17a28b.jpg)
 
 
 
