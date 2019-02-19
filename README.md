@@ -52,5 +52,9 @@ Untuk mencari nilai terbesar kita menggunakan maks.contoh:
 
 Disini kita akan menggunakan fungsi perulangan for dan kondisional if.
 
+Fungsi perulangan for disini yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan
+tertentu sedangkan Range sendiri yaitu jarak/panjang data itu sendiri.
+
+![ss7](https://user-images.githubusercontent.com/46512504/53014127-22710f00-347a-11e9-90f9-415c7b4b6690.jpg)
 
 
