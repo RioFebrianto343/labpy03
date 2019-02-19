@@ -38,6 +38,10 @@ pada kondisi tertentu.
 
 ![ss3](https://user-images.githubusercontent.com/46512504/53012976-1172ce80-3477-11e9-8a03-154cb503db7c.jpg)
 
+Untuk mencari nilai terbesar kita menggunakan maks.contoh:
 
+![ss4](https://user-images.githubusercontent.com/46512504/53013241-d7ee9300-3477-11e9-9c0a-15b3ef1145df.jpg)
+
+# HASIL OUTPUT DARI ALGORITMA latihan02.py
 
 ![untitled8](https://user-images.githubusercontent.com/46512504/53005520-fd72a100-3465-11e9-8e91-a1a6c8b7e87c.jpg)
